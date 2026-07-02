@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   return (
-    <h1>App checking</h1>h>
+    <h1>App text checking</h1>h>
   )
 }
 
