@@ -65,7 +65,7 @@ const PROJECTS: Project[] = [
     details: [
       "12+ RESTful endpoints across 3 modular route handlers (auth, records, access control), following MVC to separate models, controllers, and middleware.",
       "Stateless JWT auth with cookie-based sessions and salted bcrypt hashing; CORS and SameSite policies enforced against XSS/CSRF.",
-      "3 Mongoose schemas (User, File, AccessRequest); ImageKit integration for CDN-backed medical record retrieval.",
+      "3 Mongoose schemas (User, File, AccessRequest) ImageKit integration for CDN-backed medical record retrieval.",
       "Permission-aware Patient and Doctor dashboards rendering conditionally on authenticated role.",
     ],
   },
