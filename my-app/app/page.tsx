@@ -14,9 +14,6 @@ import { useEffect, useState } from "react";
  * Left on system mono/sans stacks here so the file has zero extra deps.
  */
 
-// ---------------------------------------------------------------------------
-// Data
-// ---------------------------------------------------------------------------
 
 const PROFILE = {
   name: "Anurag Singh",
