@@ -132,7 +132,7 @@ const CERTIFICATIONS = [
   {
     name: "Android Developer Virtual Internship",
     issuer: "Google",
-    detail: "Application architecture, REST APIs",
+    detail: "Application architecture, REST API",
   },
 ];
 
